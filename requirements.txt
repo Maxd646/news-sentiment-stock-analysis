@@ -1,0 +1,27 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+
+textblob
+nltk
+
+# Financial data & indicators
+pynance
+TA-Lib
+
+# Testing
+pytest
+pytest-cov
+pytest-mock
+pytest-xdist
+
+# Linting
+ruff
+scikit-learn
+textblob
+jupyter
+talib
+pynance
+pytz
