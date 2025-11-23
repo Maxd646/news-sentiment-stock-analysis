@@ -19,8 +19,8 @@ requirements.txt # Python dependencies
 
 ## Install & Run
 ```bash
-git clone -b task-1 https://github.com/YOUR_USERNAME/your-repo.git
-cd your-repo
+git clone -b task-1 https://github.com/Maxd646/news-sentiment-stock-analysis.git
+cd news-sentiment-stock-analysis
 pip install -r requirements.txt
 python scripts/run_pipeline.py
 ```
